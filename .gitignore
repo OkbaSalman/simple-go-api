@@ -1,0 +1,5 @@
+/pgdata
+/.env
+/docker-compose.yaml
+/start.txt
+/go-api.exe
