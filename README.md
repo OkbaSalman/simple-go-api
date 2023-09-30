@@ -58,7 +58,7 @@ Here are some example API endpoints and their usage:
 - **Retrieve all posts**
 
   ```
-  GET /Posts
+  GET /posts
   ```
 
 - **Retrieve a single post**
@@ -80,7 +80,7 @@ Here are some example API endpoints and their usage:
 - **Delete a post**
 
   ```
-  DELETE /Post/{id}
+  DELETE /posts/{id}
   ```
 
 Please adapt these examples to your specific API endpoints and data structures as needed.
