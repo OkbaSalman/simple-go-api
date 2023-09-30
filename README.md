@@ -24,13 +24,13 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-api-repo.git
+   git clone https://github.com/OkbaSalman/simple-go-api.git
    ```
 
 2. Change your working directory to the project folder:
 
    ```bash
-   cd your-api-repo
+   cd simple-go-api
    ```
 
 3. Build and run the application:
